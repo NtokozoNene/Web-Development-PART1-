@@ -35,8 +35,9 @@ Homepage
 1. **Homepage** - Introduction to Quantum Motors with featured vehicles and key messaging
 2. **Vehicle Models** - Showcase of available models with specifications and features
 3. **Technology** - Detailed information about Quantum's innovative technologies
-4. **Company** - Corporate information, careers, and press releases
-5. **Contact** - Contact form and location information
+4. **Experience** - Test drive booking and immersion center locations
+5. **Company** - Corporate information, careers, and press releases
+6. **Contact** - Contact form and location information
 
 ## Design Specifications
 
@@ -111,6 +112,22 @@ quantum-motors-website/
 │
 ├── css/
 │   ├── style.css       # Main stylesheet
+│   └── components/     # Component-specific styles
+│
+├── js/
+│   ├── main.js         # Main JavaScript file
+│   ├── animations.js   # Animation functions
+│   └── simulations.js  # Quantum simulations
+│
+├── images/             # All website images
+│   ├── vehicles/       # Vehicle images
+│   ├── technology/     # Technology visuals
+│   └── logos/          # Logo files
+│
+└── documents/          # Project documentation
+    ├── wireframes/     # Design wireframes
+    └── sitemap/        # Site structure diagrams
+```
 
 ## Browser Compatibility
 - Chrome (latest)
@@ -144,7 +161,12 @@ quantum-motors-website/
 - Bi-annual security audits
 - Annual design refresh
 
-
+## Team Members
+- Project Manager: [Name]
+- Lead Developer: [Name]
+- UI/UX Designer: [Name]
+- Content Strategist: [Name]
+- QA Specialist: [Name]
 
 ## Version History
 - v1.0 (Current) - Initial website launch
@@ -155,7 +177,7 @@ quantum-motors-website/
 For questions about this project, please contact:
 - Email: development@quantummotors.com
 - Phone: +1 (888) 555-DEVELOP
-- Address: Quantum Motors Development Department, Innovation District, South Africa
+- Address: Quantum Motors Development Department, Innovation District, Silicon Valley, CA 94025
 
 ---
 
