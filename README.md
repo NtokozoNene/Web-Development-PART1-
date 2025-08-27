@@ -161,12 +161,6 @@ quantum-motors-website/
 - Bi-annual security audits
 - Annual design refresh
 
-## Team Members
-- Project Manager: [Name]
-- Lead Developer: [Name]
-- UI/UX Designer: [Name]
-- Content Strategist: [Name]
-- QA Specialist: [Name]
 
 ## Version History
 - v1.0 (Current) - Initial website launch
@@ -176,9 +170,5 @@ quantum-motors-website/
 ## Contact Information
 For questions about this project, please contact:
 - Email: development@quantummotors.com
-- Phone: +1 (888) 555-DEVELOP
-- Address: Quantum Motors Development Department, Innovation District, Silicon Valley, CA 94025
+- Address: Quantum Motors Development Department, Innovation District
 
----
-
-*This document was last updated on October 15, 2025*
