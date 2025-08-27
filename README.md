@@ -112,8 +112,6 @@ quantum-motors-website/
 ├── css/
 │   ├── style.css       # Main stylesheet
 
-
-
 ## Browser Compatibility
 - Chrome (latest)
 - Firefox (latest)
